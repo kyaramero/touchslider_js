@@ -1,5 +1,6 @@
 ## Esse é um projeto voltado a prática de criação de uma touchslider feita inteiramente em Javascript.
 
+[Veja aqui](https://kyaramero.github.io/touchslider_js/)
 
 Utilizando interface do DOM, tags HTML e alguns atributos CSS foi possível criar uma estrutura responsiva tanto para ambientes desktop, com uso de mouse, quanto para telas de smartphones, por exemplo, com touchscreen. 
 
